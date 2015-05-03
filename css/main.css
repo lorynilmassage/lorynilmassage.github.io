@@ -55,6 +55,10 @@
 	margin-bottom: 50px;
 }
 
+.contact address {
+	padding-left: 20px;
+}
+
 footer {
 	border-top-width: 2px;
 	border-top-color: #6d2b80;
